@@ -884,6 +884,7 @@ img {
   background-image: url(../images/checked.svg);
   background-size: contain;
   background-origin: border-box;
+  border: 1px solid var(--accent-color);
 }
 
 .order-btn {
